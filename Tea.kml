@@ -46,7 +46,7 @@
 	</Style>
 	<Placemark id="MrsJonesTeaDepot">
 		<name>Mrs Jones Tea Depot</name>
-		<description><![CDATA[<img style="max-width:500px;" src="file:///C:/iow/bike/images/tea_depot.jpg">]]></description>
+		<description><![CDATA[<img style="max-width:500px;" src="http://maps.google.com/mapfiles/kml/pal4/icon28.png">]]></description>
 		<LookAt>
 			<longitude>-1.290795487782633</longitude>
 			<latitude>50.68571314583346</latitude>
