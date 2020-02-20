@@ -44,7 +44,7 @@
 	</StyleMap>
 	<Placemark id="DimbolaLodgeTearooms">
 		<name>Dimbola Lodge Tearooms</name>
-		<description><![CDATA[<img style="max-width:500px;" src="file:///C:/iow/bike/images/dimbola.jpg">]]></description>
+		<description><![CDATA[<img style="max-width:500px;" src="http://maps.google.com/mapfiles/kml/shapes/convenience.png">]]></description>
 		<LookAt>
 			<longitude>-1.469002288626999</longitude>
 			<latitude>50.66468823744343</latitude>
