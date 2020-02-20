@@ -33,7 +33,7 @@
 			<color>ccffffff</color>
 			<scale>1.1</scale>
 			<Icon>
-				<href>C:/iow/bike/images/food.png</href>
+				<href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
 			</Icon>
 			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 		</IconStyle>
